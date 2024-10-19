@@ -95,7 +95,7 @@ export default function Header({
                </IconButton>
             )}
             <Typography variant="h6" noWrap component="div">
-               Mini variant drawer
+               PedriTel CRM 1.0
             </Typography>
          </Toolbar>
       </AppBar>
